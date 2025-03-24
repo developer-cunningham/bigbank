@@ -2,10 +2,10 @@ from setuptools import setup, find_packages
 
 setup(
     name="bigbank",
-    version="0.1.0",
-    author="Your Name",
-    author_email="your.email@example.com",
-    description="A simple banking simulation package with cooldown mechanics.",
+    version="0.1.2",
+    author="William Cunningham",
+    author_email="mrcoolguy640@example.com",
+    description="Really useless library that has no reason to exist !!!",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     url="https://github.com/developer-cunningham/bigbank",
