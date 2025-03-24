@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="bigbank",
-    version="0.1.2",
+    version="0.1.3",
     author="William Cunningham",
     author_email="mrcoolguy640@example.com",
     description="Really useless library that has no reason to exist !!!",
